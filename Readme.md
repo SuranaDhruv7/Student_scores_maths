@@ -1,4 +1,4 @@
-# 📘 README: Theory Notes  
+# 📘 README
 
 ## 📊 Overview  
 This document contains **theory notes** on fundamental statistical concepts. It explains **mean, median, mode, variance, standard deviation, probability, skewness, kurtosis, and Bayes theorem** 📐✨.  
